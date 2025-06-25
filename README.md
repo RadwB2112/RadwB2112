@@ -1,4 +1,4 @@
-# 💫 About Me:							[![](https://visitcount.itsvg.in/api?id=Radw&icon=0&color=0)](https://visitcount.itsvg.in)
+# 💫 About Me:							[![](https://visitcount.itsvg.in/api?id=RadwB2112&icon=0&color=0)](https://visitcount.itsvg.in)
 (intro)<br>
 
 ## 🌐 Socials:
@@ -12,9 +12,9 @@
 # 💻 Curriculum Vitae: ![here](<link / pdf>)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Radw&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Radw&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Radw&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=RadwB2112&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RadwB2112&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RadwB2112&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
