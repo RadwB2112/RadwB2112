@@ -3,8 +3,7 @@
 <br>
 
 # 💻 Curriculum Vitae:
-<h3>The final form of my cv -> [here](https://github.com/RadwB2112/Curriculum-Vitae/README.md) 
-<br>
+<h3>The final form of my CV → <a href="https://github.com/RadwB2112/Curriculum-Vitae/blob/main/BulearcaRaduMihaiCV.pdf">here</a></h3>
   
 ## 🌐 Socials: 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mihairadubulearca@gmail.com) 
