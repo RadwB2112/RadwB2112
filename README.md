@@ -1,4 +1,4 @@
-# 💫 About Me: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     [![Profile Views](https://komarev.com/ghpvc/?username=RadwB2112&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/RadwB2112)
+# 💫 About Me: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     [![Profile Views](https://komarev.com/ghpvc/?username=RadwB2112&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/RadwB2112)
 <h3>I'm a passionate Computer Science student with a knack for building practical and fun projects involving Artificial Intelligence. I'm also deeply interested in cybersecurity, particularly red teaming.
 <br>
 
@@ -11,7 +11,6 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-0099FF?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0dayradw)
 [![pbinfo](https://img.shields.io/badge/pbinfo.ro-ff6600?style=flat&logo=codewars&logoColor=white)](https://www.pbinfo.ro/profil/radu3131)
 [![Discord](https://img.shields.io/badge/Discord-@rdw-5865F2?logo=discord&logoColor=white)](https://discord.com/users/754326747377434715)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/blc_radu) 
 <br>
 
 
@@ -24,8 +23,11 @@
 |---|---|---|
 
 <!-- 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) 
+
 
 ![](https://nirzak-streak-stats.vercel.app/?user=RadwB2112&theme=dark&hide_border=false)<br/>  
+
 
 ## 🛠️ Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
