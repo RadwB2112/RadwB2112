@@ -1,4 +1,5 @@
-# 💫 About Me: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     [![Profile Views](https://komarev.com/ghpvc/?username=RadwB2112&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/RadwB2112)
+[![Profile Views](https://komarev.com/ghpvc/?username=RadwB2112&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/RadwB2112)
+# 💫 About Me:     
 <h3>I'm a passionate Computer Science student with a knack for building practical and fun projects involving Artificial Intelligence. I'm also deeply interested in cybersecurity, particularly red teaming.
 <br>
 
