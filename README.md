@@ -20,8 +20,8 @@
 
 
 # 📊 GitHub 
-| ![](https://github-readme-stats.vercel.app/api?username=RadwB2112&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RadwB2112&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![](https://nirzak-streak-stats.vercel.app/?user=RadwB2112&theme=dark&hide_border=false)<br/>  |
-|---|---|---|
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RadwB2112&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |    ![](https://github-readme-stats.vercel.app/api?username=RadwB2112&theme=dark&hide_border=false&include_all_commits=false&count_private=false) |
+|---|---| 
 
 <!-- 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) 
