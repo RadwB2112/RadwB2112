@@ -9,7 +9,7 @@
 ## 🌐 Socials: 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mihairadubulearca@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bulearca-radu-mihai-1aba29353/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-0099FF?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0dayradw)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0099FF?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/rdw0d4y)
 [![pbinfo](https://img.shields.io/badge/pbinfo.ro-ff6600?style=flat&logo=codewars&logoColor=white)](https://www.pbinfo.ro/profil/radu3131)
 [![Discord](https://img.shields.io/badge/Discord-@rdw-5865F2?logo=discord&logoColor=white)](https://discord.com/users/754326747377434715)
 <br>
