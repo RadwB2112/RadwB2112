@@ -15,8 +15,8 @@
 <br>
 
 
-## 🧠 Currently Learning:
-- 📚 Exploring AI Neuroevolution techniques (e.g., NEAT) applied to 2D games — focusing on training agents to learn behaviors such as obstacle avoidance, pathfinding, and game strategy without direct supervision.
+## Currently sharpening:
+- Red teaming and penetration testing through real-world offensive security labs on TryHackMe and Hack The Box.
 
 
 # 📊 GitHub 
