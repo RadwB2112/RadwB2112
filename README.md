@@ -2,7 +2,7 @@
 # 👾 About Me:     
 <h3>CS student | CTF player | Red team enthusiast<br>
 
-web • pwn • rev * misc
+web • pwn • rev • misc
 <br>
 
 # 💻 Curriculum Vitae:
